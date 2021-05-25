@@ -1,5 +1,8 @@
 # COSE490_Reinforcement_Learning
-COSE490: Understand the fundamentals of Reinforcement Learning, and basic techniques
+## Summary
+**COSE490: Understand the fundamentals of Reinforcement Learning, and basic techniques**
+전산학특강(강화학습)에 대한 정리 repository입니다.
+Basic RL 기법부터 DQN 까지의 과제 수행 내역들을 담고 있습니다.
 
 ## Contents
 ### 1. Basic RL
