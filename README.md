@@ -2,6 +2,8 @@
 COSE490: Understand the fundamentals of Reinforcement Learning, and basic techniques
 
 ## Contents
-**hw01.Basic RL**  
-**hw02.Rollout with Frozen Lake**  
-**hw03.DQN with taxi**  
+### hw01. Basic RL
+
+### hw02. Rollout with Frozen Lake
+
+### hw03. DQN with taxi
